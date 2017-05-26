@@ -1,5 +1,5 @@
 def newfunc():
- print 1
+ print 1 #new com
  
  def anotherFunc():
   if 3 == 3:
