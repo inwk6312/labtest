@@ -10,3 +10,7 @@ def myFunc():
         print 2
    
    
+def myFunc():
+   if 4==4:
+      print 4
+
