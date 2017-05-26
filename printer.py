@@ -1,5 +1,5 @@
 def newfunc():
- print 0
+ print 1
  
  def anotherFunc():
   if 3 == 3:
